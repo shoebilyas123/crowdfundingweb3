@@ -1,1 +1,1 @@
-# Web3 - CrowdFunding App
+# Learning Web3 - CrowdFunding App
